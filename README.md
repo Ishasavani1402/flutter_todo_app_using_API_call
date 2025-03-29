@@ -1,7 +1,6 @@
-**todo_api_app**
+**todo_app(using API)**
 
 ✅ this is flutter todo app project.<br>
-✅in this project i impliment api integration.<br>
 ✅features : user can store,update and delete their daily task , and user's data stored in server. <br>
 ✅this project also work on web browser.
 
