@@ -1,16 +1,21 @@
-# todo_api_app
+**_** todo_api_app**_**
 
-A new Flutter project.
+✅ this is flutter todo app project.
+✅in this project i impliment api integration.
+✅features : user can store,update and delete their daily task , and user's data stored in server. 
 
-## Getting Started
+🚀api that use in this project 
+https://api.nstack.in/
 
-This project is a starting point for a Flutter application.
+🚀for store data 
+https://api.nstack.in/v1/todos
 
-A few resources to get you started if this is your first Flutter project:
+🚀for delete data
+https://api.nstack.in/v1/todos/$id
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🚀for update data 
+https://api.nstack.in/v1/todos/$id
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🔥see the demo here
+https://github.com/user-attachments/assets/558aa253-25bf-4a8e-a3a0-67f0ddcb7397
+
