@@ -16,7 +16,7 @@ https://api.nstack.in/v1/todos/$id
 🚀for update data 
 https://api.nstack.in/v1/todos/$id
 
-!(https://github.com/user-attachments/assets/58ed578e-dfa9-4721-a4fb-03b64b97decf)[main]
+![main](https://github.com/user-attachments/assets/57582e36-72b0-43d6-9f55-773720c5817b)
 ![adddata](https://github.com/user-attachments/assets/70ef4d4e-db99-4642-a984-94d4a7cca330)
 ![successadd](https://github.com/user-attachments/assets/4441ff92-dd7f-425d-a8d0-7ac0bc2faf04)
 ![error update](https://github.com/user-attachments/assets/658c7f14-01e8-406d-ac17-aa5a24c83f5d)
